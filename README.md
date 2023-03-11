@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm myLinus</h1>
-<h3 align="center">A passionate (hyper-)automation engineer</h3>
+<h3 align="center">A passionate automation engineer</h3>
 
 
 <h3 align="left">tools:</h3>
